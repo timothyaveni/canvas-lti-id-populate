@@ -1,0 +1,17 @@
+{
+  "name": "canvas-context-id-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "canvas-api-request.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Timothy J. Aveni <me@timothyaveni.com> (https://timothyaveni.com/)",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "csv": "^6.3.3",
+    "dotenv": "^16.3.1",
+    "request-promise-native": "^1.0.9"
+  }
+}
